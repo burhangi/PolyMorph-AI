@@ -10,7 +10,7 @@ PolyMorph-AI is a versatile and powerful generative AI application designed to h
 - **Description**: Generate engaging and creative social media posts tailored to your preferences.
 - ![Social Media Post Generator](<https://github.com/burhangi/PolyMorph-AI/blob/main/postgenrator.png>)
 
-### 2. 📊 Sentiment Analysis
+# 2. 📊 Sentiment Analysis
 - **Description**: Analyze the sentiment of any text to determine its emotional tone.
 - ![Sentiment Analysis](<https://github.com/burhangi/PolyMorph-AI/blob/main/sentiment.png>)
 
