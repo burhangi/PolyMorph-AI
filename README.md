@@ -28,7 +28,7 @@ PolyMorph-AI is a versatile and powerful generative AI application designed to h
 
 ### 6. 🌍 Language Translation
 - **Description**: Translate text into any language quickly and accurately.
-- ![Language Translation](<insert_image_url_here>)
+- ![Language Translation](<https://github.com/burhangi/PolyMorph-AI/blob/main/Trasnslation1.png>)
 
 ### 7. 🏋️ Fitness Plan Generator
 - **Description**: Get customized fitness plans based on your preferences and goals.
